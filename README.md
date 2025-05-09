@@ -32,10 +32,10 @@ RS Bank is a project aimed at simulating a basic banking system. This applicatio
 
 ## Usage
 
--After running the application, follow the on-screen prompts to create an account.
--Use the provided options to deposit funds, withdraw funds, or check your account balance.
--(Optional) View transaction history (if supported).
--Feel free to modify the application to add more features or customize it as needed.
+- After running the application, follow the on-screen prompts to create an account.
+- Use the provided options to deposit funds, withdraw funds, or check your account balance.
+- (Optional) View transaction history (if supported).
+- Feel free to modify the application to add more features or customize it as needed.
 
 ---
 
@@ -43,7 +43,7 @@ RS Bank is a project aimed at simulating a basic banking system. This applicatio
 
 - Python: The core programming language used to build the application.
 -
--SQLite: For managing transactional and account data.
+- SQLite: For managing transactional and account data.
 
 ---
 
