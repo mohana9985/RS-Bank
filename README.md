@@ -42,7 +42,7 @@ RS Bank is a project aimed at simulating a basic banking system. This applicatio
 ## Technologies Used
 
 - Python: The core programming language used to build the application.
--
+- tkinter: This is the library used in the project.
 - SQLite: For managing transactional and account data.
 
 ---
@@ -57,4 +57,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 If you have any questions or suggestions, feel free to reach out:
 
-GitHub: mohana9985
+GitHub: #mohana9985
